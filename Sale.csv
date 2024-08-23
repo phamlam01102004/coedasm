@@ -1,0 +1,201 @@
+sale_id,customer_id,product_id,sale_date,sale_quantity,sale_amount,sale_discount,sale_payment_method,sale_delivery_status,sale_returned
+620,944,250,2024-03-05,2,332.02,9.29,Credit Card,Shipped,No
+669,187,712,2024-04-04,1,114.48,1.14,PayPal,Delivered,No
+149,66,763,2024-07-11,7,222.11,10.18,Bank Transfer,Pending,No
+793,148,223,2024-04-26,6,164.05,30.72,Credit Card,Pending,Yes
+858,804,182,2024-06-06,9,102.94,30.08,PayPal,Shipped,No
+295,336,123,2024-02-19,4,144.35,1.46,PayPal,Shipped,Yes
+175,511,115,2024-01-04,2,192.14,12.85,PayPal,Shipped,No
+339,5,132,2024-04-23,9,263.81,13.73,Credit Card,Delivered,Yes
+44,339,643,2024-01-04,3,265.16,2.94,PayPal,Shipped,Yes
+348,859,286,2024-07-04,6,76.75,18.01,Bank Transfer,Delivered,Yes
+485,23,994,2024-05-06,5,63.68,23.52,Credit Card,Shipped,No
+970,847,756,2024-01-17,10,397.03,45.8,PayPal,Delivered,Yes
+314,459,108,2024-02-25,9,208.05,38.62,Credit Card,Shipped,Yes
+209,405,698,2024-05-22,8,455.58,29.32,Credit Card,Shipped,Yes
+273,389,929,2024-04-17,5,270.82,46.71,Bank Transfer,Shipped,No
+680,532,434,2024-04-11,2,268.51,5.12,Bank Transfer,Delivered,Yes
+197,476,140,2024-04-26,3,221.61,16.14,Credit Card,Shipped,No
+565,659,767,2024-04-20,1,162.42,43.99,PayPal,Shipped,Yes
+711,620,883,2024-04-10,8,119.87,9.96,Credit Card,Delivered,No
+96,538,521,2024-07-23,5,457.62,28.48,Bank Transfer,Pending,No
+873,509,967,2024-06-30,2,169.87,12.85,PayPal,Pending,No
+686,117,396,2024-04-01,4,176.23,24.19,Bank Transfer,Delivered,Yes
+715,162,359,2024-06-23,1,499.77,22.66,Credit Card,Shipped,Yes
+492,545,883,2024-06-25,3,294.47,36.61,Credit Card,Shipped,Yes
+108,34,365,2024-08-12,2,412.13,47.36,Bank Transfer,Pending,Yes
+351,234,884,2024-05-17,4,397.42,18.78,Bank Transfer,Pending,No
+867,959,72,2024-02-21,1,321.63,16.47,Bank Transfer,Delivered,Yes
+863,55,894,2024-04-12,4,178.38,4.17,PayPal,Shipped,Yes
+121,401,175,2024-02-12,8,300.28,5.07,Credit Card,Pending,Yes
+505,230,697,2024-02-08,6,265.27,14.53,Bank Transfer,Pending,Yes
+800,665,385,2024-01-26,5,466.04,47.17,Credit Card,Delivered,No
+439,882,582,2024-06-11,8,119.67,24.61,Credit Card,Shipped,No
+491,993,726,2024-03-20,8,165.39,11.79,PayPal,Delivered,No
+932,751,750,2024-07-27,8,354.1,29.82,Bank Transfer,Pending,No
+441,890,909,2024-06-06,5,96.64,43.73,Credit Card,Delivered,Yes
+350,345,270,2024-03-02,7,432.17,36.77,Bank Transfer,Pending,No
+694,168,235,2024-04-17,7,282.89,27.47,Credit Card,Delivered,Yes
+541,622,293,2024-06-28,1,470.42,1.17,PayPal,Shipped,Yes
+772,783,130,2024-02-02,10,423.27,48.74,Credit Card,Pending,No
+233,286,583,2024-06-13,7,115.79,33.34,Credit Card,Shipped,No
+796,714,603,2024-06-15,3,60.0,27.76,Credit Card,Shipped,No
+215,303,61,2024-03-18,10,208.82,47.69,PayPal,Pending,Yes
+568,593,765,2024-07-15,9,81.73,39.19,Credit Card,Shipped,Yes
+652,745,741,2024-02-24,9,223.01,44.61,Bank Transfer,Delivered,No
+576,929,517,2024-01-05,2,80.61,15.94,Credit Card,Pending,Yes
+815,920,193,2024-04-04,7,302.12,7.92,Bank Transfer,Shipped,Yes
+423,841,148,2024-04-07,2,121.16,12.77,PayPal,Delivered,Yes
+83,261,194,2024-03-10,4,287.72,41.02,Bank Transfer,Shipped,Yes
+811,122,634,2024-07-11,3,71.67,20.57,Credit Card,Shipped,No
+911,18,649,2024-03-15,4,449.55,18.74,Bank Transfer,Shipped,Yes
+402,606,162,2024-02-11,5,365.08,30.62,PayPal,Shipped,Yes
+973,51,536,2024-05-13,1,288.21,20.08,Credit Card,Shipped,Yes
+148,995,583,2024-02-05,9,478.03,45.21,PayPal,Pending,No
+399,612,18,2024-05-12,4,73.86,29.96,Bank Transfer,Pending,No
+702,321,715,2024-02-27,2,476.0,18.88,PayPal,Pending,No
+458,198,924,2024-06-24,8,395.77,31.99,Bank Transfer,Shipped,Yes
+98,43,603,2024-04-05,8,267.23,45.95,PayPal,Shipped,No
+448,879,40,2024-05-04,8,484.24,23.27,Bank Transfer,Shipped,Yes
+279,313,28,2024-01-21,6,127.28,18.0,Bank Transfer,Delivered,No
+656,953,31,2024-01-03,3,220.77,31.55,Credit Card,Shipped,Yes
+338,547,825,2024-02-19,2,159.49,30.11,Bank Transfer,Shipped,No
+923,927,761,2024-04-13,3,218.72,6.89,Bank Transfer,Pending,No
+174,860,596,2024-05-26,8,449.54,31.87,Bank Transfer,Pending,No
+516,820,875,2024-01-20,10,290.78,6.9,Bank Transfer,Shipped,Yes
+280,689,626,2024-02-22,5,143.48,46.7,Credit Card,Pending,Yes
+105,181,805,2024-03-23,1,495.06,8.21,PayPal,Pending,Yes
+206,281,115,2024-07-31,6,429.1,31.22,Bank Transfer,Delivered,Yes
+994,944,429,2024-07-11,6,413.79,48.86,PayPal,Pending,No
+17,948,318,2024-07-14,5,337.83,29.52,Bank Transfer,Pending,Yes
+261,834,13,2024-05-28,7,428.72,25.65,Bank Transfer,Pending,No
+283,266,106,2024-05-23,5,249.63,33.87,Credit Card,Pending,Yes
+692,704,290,2024-01-23,4,426.9,43.93,Credit Card,Pending,Yes
+99,0,676,2024-03-18,7,91.23,42.37,Bank Transfer,Delivered,No
+648,683,585,2024-01-15,1,466.53,8.52,Credit Card,Shipped,Yes
+64,98,226,2024-02-03,9,186.62,24.08,Bank Transfer,Delivered,No
+391,684,807,2024-02-24,7,424.64,43.39,Credit Card,Shipped,No
+562,154,811,2024-02-10,1,176.63,9.45,Bank Transfer,Pending,Yes
+489,707,170,2024-06-09,6,299.24,15.07,Credit Card,Delivered,No
+785,545,949,2024-08-05,2,265.04,45.17,Credit Card,Pending,Yes
+210,314,461,2024-05-18,6,431.5,8.05,Bank Transfer,Delivered,Yes
+258,990,296,2024-02-23,1,332.0,21.65,Bank Transfer,Pending,Yes
+217,847,394,2024-08-04,8,222.75,11.22,Bank Transfer,Pending,No
+395,231,949,2024-07-17,4,331.01,42.76,Credit Card,Delivered,No
+479,38,996,2024-02-13,1,164.68,30.41,Credit Card,Shipped,Yes
+490,938,513,2024-08-07,7,385.14,12.51,PayPal,Shipped,No
+116,352,650,2024-06-07,10,228.96,6.09,PayPal,Delivered,Yes
+409,97,882,2024-07-22,3,222.99,31.68,Credit Card,Shipped,Yes
+824,784,562,2024-06-23,8,396.25,42.63,PayPal,Delivered,Yes
+132,754,903,2024-08-05,6,308.66,5.49,Credit Card,Shipped,No
+812,736,63,2024-03-13,9,484.54,33.77,Bank Transfer,Pending,No
+905,100,351,2024-08-03,3,195.85,28.78,Bank Transfer,Delivered,No
+49,111,466,2024-01-05,10,246.1,37.83,Credit Card,Pending,Yes
+748,548,104,2024-02-05,4,257.21,44.8,PayPal,Shipped,No
+631,733,583,2024-02-05,5,483.88,21.44,Credit Card,Pending,Yes
+390,620,41,2024-06-07,9,169.91,39.88,Credit Card,Pending,No
+510,56,389,2024-04-20,3,409.6,2.31,Credit Card,Pending,No
+69,382,39,2024-01-02,8,440.22,22.36,Credit Card,Pending,Yes
+854,323,274,2024-01-12,6,378.02,24.77,PayPal,Pending,No
+333,279,451,2024-05-05,1,485.48,23.29,PayPal,Delivered,Yes
+487,78,360,2024-08-12,4,472.88,2.22,Bank Transfer,Pending,Yes
+606,766,880,2024-03-28,4,387.43,44.26,PayPal,Shipped,Yes
+658,128,289,2024-08-08,7,436.29,23.96,Credit Card,Delivered,No
+527,107,854,2024-05-25,7,171.0,11.05,Credit Card,Shipped,No
+651,528,769,2024-01-14,8,488.05,26.33,Credit Card,Shipped,No
+429,309,206,2024-03-05,5,63.39,8.74,Bank Transfer,Pending,Yes
+153,57,357,2024-01-14,10,66.73,45.51,Credit Card,Delivered,No
+978,13,602,2024-05-10,7,395.18,30.51,Credit Card,Delivered,No
+126,943,526,2024-06-07,3,295.81,36.69,PayPal,Pending,Yes
+933,220,290,2024-03-12,4,324.49,18.14,Credit Card,Delivered,Yes
+886,987,880,2024-05-07,3,454.11,42.06,Bank Transfer,Shipped,Yes
+619,418,61,2024-08-02,6,483.34,47.98,Bank Transfer,Shipped,No
+879,262,706,2024-01-22,5,376.77,12.73,PayPal,Pending,No
+186,114,702,2024-02-03,3,80.04,31.88,PayPal,Pending,No
+885,486,298,2024-07-25,1,461.92,3.55,Bank Transfer,Delivered,No
+540,781,270,2024-04-22,10,103.71,0.61,Credit Card,Shipped,No
+856,184,388,2024-07-07,8,236.44,33.63,PayPal,Delivered,Yes
+193,689,996,2024-04-10,7,228.96,39.24,PayPal,Pending,Yes
+225,3,655,2024-01-14,4,270.95,31.38,PayPal,Pending,No
+147,372,778,2024-01-12,9,189.51,10.84,PayPal,Pending,No
+466,547,454,2024-03-05,10,272.02,45.93,Credit Card,Delivered,Yes
+110,270,280,2024-06-19,8,178.08,34.32,Bank Transfer,Pending,No
+612,760,879,2024-06-06,3,336.3,37.74,PayPal,Pending,No
+203,6,665,2024-05-05,3,139.09,27.84,Credit Card,Shipped,No
+486,410,950,2024-08-03,2,480.68,2.16,PayPal,Pending,No
+786,704,557,2024-05-11,6,271.95,32.96,PayPal,Shipped,Yes
+829,92,952,2024-06-26,6,366.33,8.27,PayPal,Shipped,No
+194,79,340,2024-02-02,10,278.12,25.78,PayPal,Delivered,Yes
+904,852,613,2024-01-11,7,151.51,38.5,Bank Transfer,Delivered,No
+57,635,64,2024-03-13,4,236.24,4.59,Bank Transfer,Shipped,Yes
+561,157,447,2024-06-02,9,142.24,43.67,PayPal,Pending,Yes
+303,413,684,2024-02-28,2,313.95,37.91,PayPal,Pending,No
+469,486,989,2024-01-21,4,140.66,4.24,Bank Transfer,Delivered,Yes
+914,227,667,2024-02-18,6,156.37,40.97,Bank Transfer,Delivered,Yes
+199,512,212,2024-05-06,8,351.55,48.08,Bank Transfer,Delivered,No
+155,711,133,2024-07-08,8,411.5,35.55,PayPal,Shipped,No
+16,394,278,2024-08-08,8,269.87,49.31,Bank Transfer,Pending,No
+723,706,102,2024-05-16,7,318.13,33.27,Credit Card,Shipped,Yes
+254,590,42,2024-01-18,8,412.28,45.59,Credit Card,Delivered,No
+37,453,111,2024-05-16,5,403.68,34.12,Bank Transfer,Pending,Yes
+916,313,94,2024-04-04,10,462.32,32.14,Bank Transfer,Shipped,Yes
+256,405,112,2024-05-22,1,188.29,48.59,Bank Transfer,Pending,Yes
+677,185,167,2024-04-27,6,161.44,8.02,Bank Transfer,Pending,Yes
+627,281,488,2024-02-18,10,130.13,31.11,PayPal,Delivered,Yes
+624,845,911,2024-07-10,5,266.84,44.63,Credit Card,Delivered,Yes
+699,575,450,2024-05-22,4,229.38,46.45,Credit Card,Delivered,Yes
+331,713,675,2024-01-13,10,188.89,25.41,Bank Transfer,Delivered,Yes
+622,174,741,2024-08-08,5,307.87,14.56,PayPal,Delivered,No
+828,645,339,2024-03-24,4,288.76,44.71,Credit Card,Delivered,Yes
+144,699,880,2024-05-17,4,138.06,39.89,Bank Transfer,Pending,No
+604,908,733,2024-01-24,10,388.84,48.72,Credit Card,Shipped,No
+641,367,819,2024-05-31,2,420.67,30.45,Bank Transfer,Shipped,No
+445,326,360,2024-08-13,2,337.29,29.92,Credit Card,Pending,No
+192,603,95,2024-02-29,1,432.35,22.23,Bank Transfer,Delivered,Yes
+551,214,920,2024-05-31,7,71.55,21.31,Bank Transfer,Shipped,Yes
+55,710,693,2024-04-02,9,282.46,34.93,Bank Transfer,Shipped,No
+297,264,389,2024-05-27,6,155.53,26.27,Credit Card,Shipped,No
+823,10,201,2024-08-08,10,485.56,34.01,Credit Card,Delivered,No
+227,448,564,2024-01-07,9,386.61,37.18,Credit Card,Delivered,Yes
+27,393,417,2024-01-02,8,172.41,34.05,Credit Card,Pending,Yes
+532,138,175,2024-01-05,7,363.91,1.29,Bank Transfer,Shipped,No
+159,6,932,2024-04-20,9,310.28,47.07,PayPal,Delivered,No
+417,792,758,2024-02-14,10,208.99,42.13,Credit Card,Delivered,Yes
+137,541,677,2024-03-29,1,351.94,9.36,Credit Card,Delivered,Yes
+274,480,527,2024-06-04,10,476.13,9.41,PayPal,Shipped,Yes
+177,644,108,2024-07-09,3,270.51,37.12,Bank Transfer,Shipped,No
+931,214,568,2024-04-19,1,121.75,46.27,Credit Card,Pending,Yes
+22,138,168,2024-07-31,9,51.5,6.11,Credit Card,Delivered,Yes
+528,363,52,2024-05-12,6,128.16,23.95,Credit Card,Shipped,No
+816,952,162,2024-05-21,7,211.07,7.32,Bank Transfer,Shipped,Yes
+808,745,230,2024-06-29,9,423.01,0.57,PayPal,Shipped,No
+41,912,842,2024-04-29,5,123.21,27.82,Credit Card,Shipped,No
+252,698,972,2024-07-14,7,167.78,44.6,Credit Card,Delivered,Yes
+593,982,816,2024-06-27,3,444.45,27.28,Bank Transfer,Delivered,Yes
+558,100,456,2024-03-22,6,461.84,31.62,Credit Card,Shipped,Yes
+585,767,900,2024-06-15,9,79.63,6.31,Credit Card,Delivered,No
+741,555,483,2024-06-09,10,341.96,43.77,Credit Card,Shipped,Yes
+393,348,102,2024-05-28,7,292.2,21.92,Credit Card,Delivered,No
+944,642,900,2024-03-08,4,341.07,19.34,Bank Transfer,Shipped,Yes
+671,169,403,2024-06-12,5,497.69,45.66,PayPal,Delivered,Yes
+655,93,448,2024-03-19,4,238.52,10.47,Bank Transfer,Pending,Yes
+285,794,987,2024-06-19,5,289.1,39.15,Bank Transfer,Pending,Yes
+952,126,543,2024-06-24,2,455.92,6.52,Credit Card,Delivered,Yes
+143,407,119,2024-06-06,5,257.69,42.97,Credit Card,Delivered,No
+286,753,659,2024-07-04,1,54.42,10.35,Bank Transfer,Delivered,Yes
+776,995,536,2024-08-10,4,260.73,49.61,PayPal,Pending,No
+664,56,912,2024-07-05,3,315.22,21.34,PayPal,Shipped,Yes
+653,547,987,2024-01-28,9,151.53,22.76,Bank Transfer,Delivered,No
+122,854,460,2024-07-03,2,57.18,48.78,PayPal,Pending,No
+163,4,127,2024-01-08,5,119.3,40.65,PayPal,Pending,Yes
+522,522,680,2024-01-11,3,203.49,22.77,PayPal,Pending,No
+732,715,255,2024-04-03,2,290.69,29.79,PayPal,Shipped,Yes
+161,231,375,2024-07-21,3,441.07,11.22,Bank Transfer,Delivered,Yes
+611,9,909,2024-03-09,2,232.71,37.33,PayPal,Pending,Yes
+397,2,301,2024-02-19,6,287.6,19.51,PayPal,Shipped,Yes
+819,930,981,2024-04-05,2,127.53,25.64,PayPal,Delivered,Yes
+888,363,851,2024-06-07,10,80.3,46.55,Bank Transfer,Pending,Yes
+710,334,30,2024-05-06,1,317.49,25.8,Bank Transfer,Shipped,Yes
+598,817,804,2024-04-06,7,95.59,47.08,PayPal,Delivered,Yes
+919,801,600,2024-07-14,7,437.12,37.42,Bank Transfer,Shipped,No
+718,191,964,2024-05-23,4,270.42,49.77,PayPal,Pending,No
